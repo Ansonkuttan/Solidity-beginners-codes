@@ -46,16 +46,4 @@ The `burn` function allows the contract owner (or anyone with the appropriate pe
 
 Please note that burning tokens reduces the total supply of the token, and it can only be executed if the balance of the target address is equal to or greater than the number of tokens to be burned.
 
-## License
 
-This smart contract is licensed under the MIT License.
-
-plaintext
-SPDX-License-Identifier: MIT
-
-
-## Disclaimer
-
-This smart contract is provided as-is and without any warranties. Use it at your own risk.
-
-*Note*: Remember to mention the Solidity version used to compile the contract in your actual README file. Since Solidity is constantly evolving, it is important to specify the version to ensure future developers can compile and understand the code correctly.
